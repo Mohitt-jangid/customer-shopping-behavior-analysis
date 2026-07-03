@@ -174,6 +174,21 @@ Customer-Shopping-Behavior-Analysis
 
 ---
 
-## Author
+#  About Me
 
-Mohit Jangid
+**Mohit Jangid**
+
+I'm an aspiring **Data Analyst** passionate about transforming raw data into meaningful insights through interactive dashboards and visual storytelling.
+
+### Skills
+
+* Power BI
+* DAX
+* Power Query
+* Excel
+* SQL
+* Python
+* Data Visualization
+* Data Cleaning
+
+---
